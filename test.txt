@@ -1,2 +1,3 @@
 hi welocome to vi commands
 to save the file press shift +zz or :x
+to delete a line form vi we use dd
