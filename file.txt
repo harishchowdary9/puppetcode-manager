@@ -1,5 +1,2 @@
 hi this is seconed file created in harish branch and push to harish branh
-<<<<<<< HEAD
 this is second line added in harish branch
-=======
->>>>>>> f80a16613edf31ebcc2a24796106e46f96dce9fd
