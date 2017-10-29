@@ -3,3 +3,4 @@ to save the file press shift +zz or :x
 this is 4th line from test file
 to delete a line form vi we use dd
 to delete character use dw
+to search a pattern from the vi command use /pattern
