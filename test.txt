@@ -1,0 +1,2 @@
+hi welocome to vi commands
+to save the file press shift +zz or :x
