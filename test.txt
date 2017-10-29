@@ -1,4 +1,4 @@
 hi welocome to vi commands
 to save the file press shift +zz or :x
-1
 this is 4th line from test file
+to delete a line form vi we use dd
