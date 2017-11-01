@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 hi this is harish to test the merge
 this is harish babu
 this line is to merge
