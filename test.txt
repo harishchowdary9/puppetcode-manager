@@ -1,7 +1,2 @@
 hi welocome to vi commands
-to save the file press shift +zz or :x
-this is to test the line while merging
-this is 4th line from test file
-to delete a line form vi we use dd
-to search a pattern from the vi command use /pattern
-end of the line
+this is to test whle merging branch
