@@ -1,6 +1,7 @@
 hi welocome to vi commands
 this is to test whle merging branch
 to save the file press shift +zz or :x
+hello welocme to marging
 this is 4th line from test file
 to delete a line form vi we use dd
 to search a pattern from the vi command use /pattern
